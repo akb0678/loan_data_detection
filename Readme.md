@@ -1,5 +1,5 @@
 # For run this app clone git
- git clone https://github.com/RohitKumar9935459794/loan_data_detection.git
+ git clone https://github.com/akb0678/loan_data_detection.git
 
 
 # Create an conda env
